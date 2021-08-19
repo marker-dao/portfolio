@@ -2,7 +2,7 @@
 
 https://codesandbox.io/s/rough-moon-ppqxu
 
-http://ec2-54-93-180-29.eu-central-1.compute.amazonaws.com/
+https://fruktorum.com/
 
 https://package-manager-by-mark.herokuapp.com/ - дизайн спроектирован мной.
 
