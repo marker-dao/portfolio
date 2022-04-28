@@ -1,6 +1,6 @@
 # portfolio
 
-https://mertvyedushi.github.io/table/ (repo: https://github.com/MertvyeDushi/table)
+https://media-cube-todo.netlify.app/
 
 https://fruktorum.com/
 
